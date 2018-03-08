@@ -31,7 +31,7 @@ public class DB2Luw_employee
 
       url = "jdbc:db2://127.0.0.1:50000/SAMPLE";
       user = "LAT1";
-	  password = "Ellan1703";	
+	  password = "********";	
 	
    try	
    {	  
